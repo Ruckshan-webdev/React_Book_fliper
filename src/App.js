@@ -42,7 +42,7 @@ class App extends React.Component {
       <div className="body">
         <HTMLFlipBook
           width={320}
-          height={420}
+          height={460}
           size="fixed"
           minWidth={315}
           maxWidth={1000}
@@ -70,15 +70,6 @@ class App extends React.Component {
           <SinglePage number={3}>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.</SinglePage>
 
           {/* Page 04 */}
-
-
-
-
-
-
-
-
-
           
           <SinglePage number={4}>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.</SinglePage>
 

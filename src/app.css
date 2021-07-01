@@ -28,17 +28,18 @@ body{
     border-radius: 20px;
     box-shadow: 0 0 5px rgba(24, 24, 24, 0.281);
     padding: 10px;
-    
+    height: 90vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 .book{
-    margin: 30px auto 0 ;
+    margin: 10px auto 0 ;
+  
 }
 .container{
-    margin: 10px auto 0;
+    margin: 30px auto 0;
     display: flex;
     justify-content: space-between;
     
